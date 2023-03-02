@@ -1,3 +1,6 @@
 tld
 Keras.models
 tensorflow
+uvicorn
+gunicorn
+fastapi
