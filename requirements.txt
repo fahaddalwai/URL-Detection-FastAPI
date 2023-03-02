@@ -5,3 +5,6 @@ uvicorn
 gunicorn
 fastapi
 pydantic
+numpy
+pandas
+urllib.parse
