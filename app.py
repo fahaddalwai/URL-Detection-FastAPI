@@ -9,7 +9,7 @@ from tld import get_tld, is_tld
 import re
 
 app=FastAPI()
-model  = load_model(r"C:\Users\dalwa\Desktop\FastAPI URL detection\urlmodel.h5")
+model  = load_model("urlmodel.h5")
 
 def process_tld(url):
     try:
