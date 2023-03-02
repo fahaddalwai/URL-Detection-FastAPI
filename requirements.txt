@@ -4,3 +4,4 @@ tensorflow
 uvicorn
 gunicorn
 fastapi
+pydantic
